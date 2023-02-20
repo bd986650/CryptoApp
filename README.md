@@ -3,7 +3,7 @@
 <img width="1900" alt="Снимок экрана 2023-02-20 в 18 01 50" src="https://user-images.githubusercontent.com/96487423/220088484-a46ea449-e8fe-453e-8c87-3948af904fc8.png">
 <img width="1894" alt="Снимок экрана 2023-02-20 в 18 03 05" src="https://user-images.githubusercontent.com/96487423/220088492-08c51804-951a-4d53-bbd2-3dc6392ae2e6.png">
 
-## Demo
+## 🎥 Demo
 
 
 ## 🛠️ Installation Steps
