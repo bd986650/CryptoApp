@@ -232,6 +232,7 @@ struct DetailNftView: View {
     private func resetTimer() {
         isCancelTransactionTimerRunning = false
         transactionTimerRemaining = 5.0
+        opacity = 1.0
         transactionTimer?.invalidate()
         transactionTimer = nil
         if let price = Double(nft.price) {

@@ -226,8 +226,8 @@
 			isa = PBXGroup;
 			children = (
 				1AF937592997B57F00503866 /* MainView.swift */,
-				1AF937982997BADB00503866 /* ConnectionErrorView.swift */,
 				1AF9379A2997BB0E00503866 /* SplashView.swift */,
+				1AF937982997BADB00503866 /* ConnectionErrorView.swift */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -706,6 +706,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = AAC;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Crypto requires access to your camera";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Crypto requires access to your photo library for selecting photos.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -741,6 +742,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = AAC;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Crypto requires access to your camera";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Crypto requires access to your photo library for selecting photos.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
