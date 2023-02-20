@@ -12,7 +12,7 @@
 1. Open Terminal and Clone the Repo
 
 ```bash
-  git clone https://github.com/Lakhankumawat/smart-home-app.git
+  git clone https://github.com/qwotic/CryptoApp.git
 ```
 3. Api Keys
 ```
