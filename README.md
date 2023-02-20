@@ -1,9 +1,9 @@
 
+<img width="1896" alt="Снимок экрана 2023-02-20 в 18 00 12" src="https://user-images.githubusercontent.com/96487423/220088470-b2e1e096-b3f0-4587-84df-c17c465a60f8.png">
+<img width="1900" alt="Снимок экрана 2023-02-20 в 18 01 50" src="https://user-images.githubusercontent.com/96487423/220088484-a46ea449-e8fe-453e-8c87-3948af904fc8.png">
+<img width="1894" alt="Снимок экрана 2023-02-20 в 18 03 05" src="https://user-images.githubusercontent.com/96487423/220088492-08c51804-951a-4d53-bbd2-3dc6392ae2e6.png">
 
-![Group 1](https://user-images.githubusercontent.com/55774240/155844381-bc4eb27d-c7aa-4325-b621-2164436cf9ac.png)
-![Group 2](https://user-images.githubusercontent.com/55774240/155844384-0c9c4899-91c9-412e-81b9-818fc6f8ae9f.png)
-![Group 4](https://user-images.githubusercontent.com/55774240/155844389-3f4a97f3-0401-44cb-bc64-22cbb91a406b.png)
-![Group 3 1](https://user-images.githubusercontent.com/55774240/155844391-d40a0d37-1a23-4304-b04c-948d44a380a5.png)
+
 
 
 ## 🛠️ Installation Steps
