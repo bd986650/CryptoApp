@@ -7,7 +7,7 @@
 
 1. Open Terminal and Clone the Repo
 
-```
+```bash
   git clone https://github.com/qwotic/CryptoApp.git
 ```
 2. Api Keys
